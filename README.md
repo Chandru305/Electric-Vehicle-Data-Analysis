@@ -30,5 +30,7 @@ o	Pie/Donut Chart
 o	Tree Map
 
 Dashboard
+
 •	Tableau Dashboard: Interactive visualization of key metrics and trends.
+
 ![Screenshot 2024-07-17 150218](https://github.com/user-attachments/assets/1a9d0e3e-f533-4d3e-b41a-46348565eb94)

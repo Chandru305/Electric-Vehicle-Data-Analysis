@@ -4,21 +4,28 @@ This project involves analyzing electric vehicle population data to understand m
 Project Overview
 
 •	Objective: Analyze electric vehicle market trends and visualize insights through interactive dashboards.
+
 Key Performance Indicators (KPIs)
+
 •	Total vehicles (BEVs and PHEVs)
 •	Average electric range
 •	Total BEVs and percentage of total BEVs
 •	Total PHEVs and percentage of total PHEVs
 
 Visualizations
+
 •	Total Vehicles by Model Year (From 2010 Onwards)
 o	Line/Area Chart
+
 •	Total Vehicles by State
 o	Map Chart
+
 •	Top 10 Total Vehicles by Make
 o	Bar Chart
+
 •	Total Vehicles by CAFV Eligibility
 o	Pie/Donut Chart
+
 •	Top 10 Total Vehicles by Model
 o	Tree Map
 

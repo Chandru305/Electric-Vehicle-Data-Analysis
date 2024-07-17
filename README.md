@@ -5,6 +5,8 @@ Project Overview
 
 •	Objective: Analyze electric vehicle market trends and visualize insights through interactive dashboards.
 
+Data set : https://drive.google.com/drive/folders/1noCIjaSc7rTH2fSY1fapBQNYxRVtbIUe?usp=drive_link
+
 Key Performance Indicators (KPIs)
 
 •	Total vehicles (BEVs and PHEVs)

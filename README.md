@@ -28,6 +28,7 @@ The following visualizations are used to represent the data effectively:
 Tableau Dashboard: Interactive visualization of key metrics and trends.
 
 ### Example Screenshot
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](https://github.com/yourusername/repository-name/blob/main/images/Dashboard.png?raw=true)
+
 
 

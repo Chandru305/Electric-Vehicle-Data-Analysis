@@ -3,11 +3,11 @@
 ## Project Overview
 This project involves analyzing electric vehicle population data to understand market trends and provide actionable insights using Tableau.
 
-### Objective
-- Analyze electric vehicle market trends and visualize insights through interactive dashboards.
+## Objective
+Analyze electric vehicle market trends and visualize insights through interactive dashboards.
 
-### Dataset
-- [Electric Vehicle Population Dataset](https://drive.google.com/drive/folders/1_5E_9k32hwvI-J6_E1CIiZ5swsBIv9hN?usp=sharing)
+## Dataset
+Electric Vehicle Population Dataset
 
 ## Key Performance Indicators (KPIs)
 - **Total Vehicles**: Breakdown of BEVs and PHEVs.
@@ -25,17 +25,8 @@ The following visualizations are used to represent the data effectively:
 - **Top 10 Total Vehicles by Model**: Tree Map
 
 ## Dashboard
-- **Tableau Dashboard**: Interactive visualization of key metrics and trends.
+Tableau Dashboard: Interactive visualization of key metrics and trends.
 
 ### Example Screenshot
-![Dashboard Screenshot](![Dashboard](https://github.com/user-attachments/assets/f5e4785d-45d8-4d41-a1ec-abf40cf5f0a2)
-)
+![Dashboard](Dashboard.png)
 
-## How to Use
-1. Download the dataset from the provided Google Drive link.
-2. Load the dataset into Tableau.
-3. Use the provided visualizations to analyze trends.
-4. Interact with the dashboard for insights.
-
-## Requirements
-- **Tableau** (for visualization)

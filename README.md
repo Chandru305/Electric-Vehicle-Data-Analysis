@@ -28,7 +28,8 @@ The following visualizations are used to represent the data effectively:
 - **Tableau Dashboard**: Interactive visualization of key metrics and trends.
 
 ### Example Screenshot
-![Dashboard Screenshot](Screenshot_2024-07-17_150218.png)
+![Dashboard Screenshot](![Dashboard](https://github.com/user-attachments/assets/f5e4785d-45d8-4d41-a1ec-abf40cf5f0a2)
+)
 
 ## How to Use
 1. Download the dataset from the provided Google Drive link.
